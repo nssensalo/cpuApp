@@ -27,11 +27,13 @@ Note: speed calculation takes about 15 seconds
 <details>
 <summary>Front-End Development</summary>
 
+
 **Tkinter** - Python's standard GUI (Graphical User Interface) package.
 </details>
 
 <details>
 <summary>Back-End Development</summary>
+
 
 **Psutil** - Python system and process utilities is a Python package that retrieves information on ongoing processes and system usage.
 
