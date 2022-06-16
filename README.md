@@ -1,4 +1,4 @@
-<h1 align="center"> Spotify Clone (for learning purposes only) </h1>
+<h1 align="center"> Real-time computer performance monitor </h1>
 
 <p align="center" width="100%">
     <img height="100%" src="https://github.com/nssensalo/cpuApp/blob/main/images/cpuAppPic.png" width="400" height="500" />
