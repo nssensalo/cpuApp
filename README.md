@@ -1,25 +1,9 @@
 <h1 align="center"> Real-time computer performance monitor </h1>
 
 <p align="center" width="100%">
-    <img height="100%" src="https://github.com/nssensalo/cpuApp/blob/main/images/cpuAppPic.png" width="400" height="500" />
+    <img height="100%" src="https://github.com/nssensalo/cpuApp/blob/main/images/classicalimageBackground.jpg" width="400" height="500" />
 </p>
-This app displays performance metrics in real-time including CPU’s, CPUusage %, total RAM, RAM usage %, and available RAM. To check download/upload speed and ping click test button.
-
----
-## Usage
-
-<details>
-<summary>Getting Started</summary>
-
-1. Install required libraries
-
-2. Pop-up window will display cpu and RAM statistics
-
-3. Press Test Internet Speed button to get download/upload and ping information. 
-
-Note: speed calculation takes about 15 seconds
-
-</details>
+This app built from scratch allows for user registration, searching for favorite artist, albums, and songs in realtime, creation and customization of playlist, and use of music controls including play, pause, skip, previous, shuffe, and repeat.
 
 ---
 ## Technology
@@ -28,21 +12,33 @@ Note: speed calculation takes about 15 seconds
 <summary>Front-End Development</summary>
 
 
-**Tkinter** - Python's standard GUI (Graphical User Interface) package.
+**Html** 
+**Css**
+  
 </details>
 
 <details>
 <summary>Back-End Development</summary>
 
 
-**Psutil** - Python system and process utilities is a Python package that retrieves information on ongoing processes and system usage.
+**Xampp** 
 
 
-**Speedtest** - A Python package that measures the speed between your device and a test server, using your device's internet connection.
+**MySQLite** 
 
-**Matplotlib** -  A comprehensive library for creating static, animated, and interactive visualizations in Python.
+**Javascrips** 
 
-**PIL**  - The Python imaging library.
+
 </details>
 
 
+---
+
+## Usage
+
+<details>
+<summary>Getting Started</summary>
+
+
+
+</details>
