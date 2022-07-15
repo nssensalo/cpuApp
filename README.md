@@ -44,5 +44,3 @@ Note: speed calculation takes about 15 seconds
 
 **PIL**  - The Python imaging library.
 </details>
-
-
